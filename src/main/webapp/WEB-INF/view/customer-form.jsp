@@ -42,7 +42,7 @@
 				<input type="text" name="email" value="${customer.email}"
 					placeholder="Email" class="form-control mb-4 col-4">
 			</div>
-			<button type="submit" class="btn btn-info col-2">Submit</button>
+			<button type="submit" class="btn btn-info col-2">Save</button>
 		</form>
 		<br /> <a href="/SpringCustomerRelationshipManagement/customer/list">Back
 			to Customer List</a>
